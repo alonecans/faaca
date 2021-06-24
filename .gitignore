@@ -1,8 +1,0 @@
-# Dependency directories
-node_modules/
-
-# Optional npm cache directories
-.npm
-
-# sessions file
-pinky.json
